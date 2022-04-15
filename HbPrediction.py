@@ -15,7 +15,7 @@ Predict the hemoglobin content of a given pRBC unit in g/unit using machine lear
 ''')
 
 #open and display an image
-st.image( "https://raw.githubusercontent.com/jeremyepah/prbc-prediction/main/Hb_ML6.png")
+st.image( "https://raw.githubusercontent.com/epahjeremy/prbc-prediction/main/Hb_ML6.png")
 
 #Get the feature imput from the data
 
