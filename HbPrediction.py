@@ -103,7 +103,7 @@ if data_up is not None:
 
 #Get the data
 #data = st.file_uploader("Upload the training data set - csv:")
-df = pd.read_csv("https://raw.githubusercontent.com/Jayremi21/HbPrediction/main/Training_Data_WebApp.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/epahjeremy/prbc-prediction/main/Training_Data_WebApp.csv")
 
 
 # If a dataset is uploaded, show a preview
