@@ -73,7 +73,7 @@ if data_up is not None:
    
   #Store the models predictions in a variable
    prediction_up = MLR_model_up.predict(user_input)
-   iron_up = prediction_up/66.458*4*55.845
+   iron_up = prediction_up/64.458*4*55.845
 
    #Set a subheader and display the predicion
    st.subheader('Predicted Hb content in g per unit:')
@@ -89,7 +89,7 @@ if data_up is not None:
      df2 = pd.read_csv(data2)
      X2 =  pd.get_dummies(df2, prefix='', prefix_sep='')
      file_pred = MLR_model.predict(X2)
-     iron_file = file_pred/66.458*4*55.845
+     iron_file = file_pred/64.458*4*55.845
       
     #Set a subheader and display the predicion
      st.subheader('Predicted Hb content in g per unit of uploaded file:')
@@ -142,7 +142,7 @@ if data_up is None:
 
     #Store the models predictions in a variable
     prediction = MLR_model.predict(user_input)
-    iron = prediction/66.458*4*55.845
+    iron = prediction/64.458*4*55.845
 
     #Set a subheader and display the predicion
     st.subheader('Predicted Hb content in g per unit:')
@@ -157,7 +157,7 @@ if data_up is None:
       df2 = pd.read_csv(data2)
       X2 =  pd.get_dummies(df2, prefix='', prefix_sep='')
       file_pred = MLR_model.predict(X2)
-      iron_file = file_pred/66.458*4*55.845
+      iron_file = file_pred/64.458*4*55.845
       
      #Set a subheader and display the predicion
       st.subheader('Predicted Hb content in g per unit of uploaded file:')
