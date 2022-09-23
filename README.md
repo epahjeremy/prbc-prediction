@@ -2,7 +2,7 @@
 
 The transfusion of packed red blood cells (pRBCs) saves lives, but	  iron overload limits the
 survival  of chronically  transfused patients.  Quality  control  destroying  pRBCs  reveals  that
-hemoglobin (38.5 - 79.9 g) and heme iron (	133.42  –  276.89 mg)	 vary substantially between
+hemoglobin (38.5 - 79.9 g) and heme iron (133.42  –  276.89 mg)	 vary substantially between
 pRBCs.  Yet , neither hemoglobin nor iron content can be quantified for individual clinically
 used pRBCs leading to rules of thumb for pRBC transfusions.
 Keeping their integrity, we sought to predict hemoglobin/iron content of any given pRBC unit
