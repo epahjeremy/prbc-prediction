@@ -18,4 +18,4 @@ monitoring   iron   uptake   in   patients   and   individual   iron   loss   in
 implemented in a free open-source web application to facilitate clinical application:
 
 
-https://share.streamlit.io/epahjeremy/prbc-prediction/main/HbPrediction.py
+https://epahjeremy-prbc-prediction-hbprediction-dceyew.streamlitapp.com/
