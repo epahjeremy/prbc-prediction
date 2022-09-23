@@ -10,7 +10,7 @@ applying eight machine learning models on 6,058 pRBCs. Based on thirteen feature
 collected during blood donation, production and quality control testing, we identified the
 model with best trade-off between performance and complexity in hemoglobin/iron content
 prediction.	Validation of this model in an independent cohort of 2,637 pRBCs confirmed an
-adjusted R^2 > 0.9 for prediction of individual hemoglobin/iron content of pRBCs
+adjusted R² > 0.9 for prediction of individual hemoglobin/iron content of pRBCs
 corresponding to a mean absolute prediction error of ≤1.43 g hemoglobin/4.96 mg iron
 (associated standard deviation: ≤1.13 g hemoglobin/3.92 mg iron). Such unprecedented
 precise prediction enables reliable pRBC dosing per pharmaceutically active agent, and
