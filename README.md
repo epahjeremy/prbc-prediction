@@ -1,4 +1,4 @@
-# prbc-predict
+# prbc-prediction
 
 The transfusion of packed red blood cells (pRBCs) saves lives, but iron overload limits the
 survival of chronically transfused patients. Quality control destroying pRBCs reveals that
