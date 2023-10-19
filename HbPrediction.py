@@ -29,8 +29,8 @@ def get_user_input():
       st.write('WARNING: Must be EITHER male OR female!')
              
   #Store a dictionary into a variable
-   user_data = {'Volume in mL': volume,
-                 'Hb fingertip in g/dL': hb_fingertip,
+   user_data = {'UNIT_VOLUME': volume,
+                 'HB_FINGERTIP': hb_fingertip,
                  'Female': female,
                   'Male': male
                 }
